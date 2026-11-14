@@ -66,13 +66,14 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
+- **[Brodlin PDF](https://brodlin.com/)** — Sign, fill in, merge and compress PDFs in the browser, no account needed.
 
 ## QR & business cards
 
 - **[QRCode Monkey](https://www.qrcode-monkey.com)** — Custom QR codes with logos, colors and high-resolution export.
 - **[qrfast.io](https://qrfast.io)** — QR codes for links, WiFi, vCards, PDFs, WhatsApp and crypto, with styling and PNG/SVG/JPEG/WEBP export.
 - **[cartevisite.io](https://cartevisite.io)** — Double-sided business card maker with full typography control, logo import and a built-in QR flow.
-
+  
 ## Time & date
 
 - **[time.is](https://time.is)** — Exact current time anywhere, with time-zone detail for any city.
